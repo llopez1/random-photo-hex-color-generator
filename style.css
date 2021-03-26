@@ -1,0 +1,10 @@
+body {
+    transition: all .5s ease;
+   }
+  
+   #photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  } 
